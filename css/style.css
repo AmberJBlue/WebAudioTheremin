@@ -1,0 +1,14 @@
+html, body {
+
+    cursor: pointer;
+    height: 100%;
+    margin: 0;
+}
+
+.circle {
+    background: white;
+    display: none;
+    height: 10px;
+    position: absolute;
+    width: 10px;
+}
